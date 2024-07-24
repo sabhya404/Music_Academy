@@ -15,10 +15,9 @@ function HeroSection() {
           Master the art of music
         </h1>
         <p className="mt-4 font-normal text-base md:text-lg text-neutral-300 max-w-lg mx-auto">
-          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Accusamus
-          architecto, sunt cupiditate amet assumenda commodi, eligendi quaerat,
-          repellendus corrupti neque corporis excepturi reprehenderit sint
-          labore.
+          Dive into our comprehensive music courses and transform your musical
+          journey today. Whether you're a beginner or looking to refine your
+          skills, join us to unlock your true potential.
         </p>
         <div className="mt-4">
           <Link href={"/courses"}>
