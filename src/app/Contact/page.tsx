@@ -3,7 +3,7 @@
 import React, { FormEvent, useState } from "react";
 import { Meteors } from "@/components/ui/meteors";
 
-function MusicSchoolContactUs() {
+function page() {
   const [email, setEmail] = useState("");
   const [message, setMessage] = useState("");
 
@@ -56,4 +56,4 @@ function MusicSchoolContactUs() {
   );
 }
 
-export default MusicSchoolContactUs;
+export default page;
